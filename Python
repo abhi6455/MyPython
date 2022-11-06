@@ -1,5 +1,6 @@
+#Declare and Assign Variable 
 int_var=10;
-Declare and Assign Variable 
+
 
 #print value
 print("value of variable=" ,int_var,"Result Done!!")
