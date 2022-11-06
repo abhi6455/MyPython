@@ -1,0 +1,17 @@
+#Arithmatic Operrations 
+a=10
+b=5
+
+print("Addition =",a+b)
+print("Substraction=",a-b)
+print("Multiplication",a*b)
+print("Float division",a/b)
+print("Integer Division",a//b)
+print("Modulus",a%b)
+print("Pow",a**b)
+
+#STR operation 
+str1="Abhishek"
+str2="Chaturvedi"
+full_name=str1+" "+str2
+print("FullName =",full_name)
